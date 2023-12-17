@@ -17,7 +17,4 @@ Link: https://www.youtube.com/watch?v=RGOj5yH7evk
 ## new addition
 ## hello there
 
-<<<<<<< HEAD
 ## Now or Never
-=======
->>>>>>> main
